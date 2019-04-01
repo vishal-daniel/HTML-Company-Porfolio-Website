@@ -2433,7 +2433,7 @@ i:before {
 /* End Footer Area css
 ============================================================================================ */
 /*---------------------------------------------------- */
-#ftco-loader {
+/* #ftco-loader {
   position: fixed;
   width: 96px;
   height: 96px;
@@ -2522,6 +2522,6 @@ i:before {
     stroke-dashoffset: -35px; }
   100% {
     stroke-dasharray: 89, 200;
-    stroke-dashoffset: -136px; } }
+    stroke-dashoffset: -136px; } } */
 
 /*# sourceMappingURL=style.css.map */
