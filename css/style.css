@@ -1,19 +1,4 @@
-/*----------------------------------------------------
-@File: Default Styles
-@Author: Rocky
-@URL: http://wethemez.com
-Author E-mail: rockybd1995@gmail.com
-
-This file contains the styling for the actual theme, this
-is the file you need to edit to change the look of the
-theme.
----------------------------------------------------- */
 /*=====================================================================
-@Template Name: Cerative Agency
-@Author: Rocky
-@Developed By: Rocky
-@Developer URL: http://rocky.wethemez.com
-Author E-mail: rockybd1995@gmail.com
 
 @Default Styles
 
@@ -409,7 +394,7 @@ i:before {
   padding: 0px 53px;
 }
 
-.main_slider_area .rev_slider .tp-bullets {
+/* .main_slider_area .rev_slider .tp-bullets {
   left: calc(50% - 970px) !important;
 }
 
@@ -423,7 +408,7 @@ i:before {
 .main_slider_area .rev_slider .tp-bullets .tp-bullet.selected {
   background: #97cdfe;
   border-color: #97cdfe;
-}
+} */
 
 .main_slider_area .rev_slider .tp-leftarrow, .main_slider_area .rev_slider .tp-rightarrow {
   height: 90px;
@@ -858,9 +843,9 @@ i:before {
 }
 
 .our_skill_inner .single_skill .progress .progress-bar {
-  background-image: -moz-linear-gradient(0deg, #6ebdfe 0%, #9b8aff 100%);
-  background-image: -webkit-linear-gradient(0deg, #6ebdfe 0%, #9b8aff 100%);
-  background-image: -ms-linear-gradient(0deg, #6ebdfe 0%, #9b8aff 100%);
+  background-image: -moz-linear-gradient(0deg, #54adff 0%, #9b8aff 100%);
+  background-image: -webkit-linear-gradient(0deg, #54adff 0%, #9b8aff 100%);
+  background-image: -ms-linear-gradient(0deg, #54adff 0%, #9b8aff 100%);
   position: relative;
 }
 
@@ -868,9 +853,9 @@ i:before {
   position: absolute;
   right: 0px;
   top: -40px;
-  background-image: -moz-linear-gradient(10deg, #6ebdfe 0%, #9b8aff 100%);
-  background-image: -webkit-linear-gradient(10deg, #6ebdfe 0%, #9b8aff 100%);
-  background-image: -ms-linear-gradient(10deg, #6ebdfe 0%, #9b8aff 100%);
+  background-image: -moz-linear-gradient(10deg, #54adff 0%, #9b8aff 100%);
+  background-image: -webkit-linear-gradient(10deg, #54adff 0%, #9b8aff 100%);
+  background-image: -ms-linear-gradient(10deg, #54adff 0%, #9b8aff 100%);
   color: #fff;
   padding: 0px 16px;
   font-size: 14px;
@@ -884,9 +869,9 @@ i:before {
 }
 
 .talk_area {
-  background-image: -moz-linear-gradient(10deg, #6ebdfe 0%, #9b8aff 100%);
-  background-image: -webkit-linear-gradient(10deg, #6ebdfe 0%, #9b8aff 100%);
-  background-image: -ms-linear-gradient(10deg, #6ebdfe 0%, #9b8aff 100%);
+  background-image: -moz-linear-gradient(10deg, #54adff 0%, #9b8aff 100%);
+  background-image: -webkit-linear-gradient(10deg, #54adff 0%, #9b8aff 100%);
+  background-image: -ms-linear-gradient(10deg, #54adff 0%, #9b8aff 100%);
   padding: 160px 0px 170px 0px;
   border-bottom: 2px solid #fff;
 }
@@ -962,9 +947,9 @@ i:before {
 
 .solution_collaps .card .card-header h5 a {
   background: #79ccff;
-  background: -moz-linear-gradient(left, #79ccff 0%, #9b75ff 100%);
-  background: -webkit-linear-gradient(left, #79ccff 0%, #9b75ff 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#79ccff', endColorstr='#9b75ff',GradientType=1 );
+  background: -moz-linear-gradient(left, #79ccff 0%, #54adff 100%);
+  background: -webkit-linear-gradient(left, #79ccff 0%, #54adff 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#79ccff', endColorstr='#54adff',GradientType=1 );
   display: block;
   color: #fff;
   font-size: 16px;
@@ -1288,10 +1273,10 @@ i:before {
 }
 
 .submit_btn {
-  background-image: -webkit-gradient(linear, left top, right top, from(#54adff), color-stop(60%, #998dff), to(#54adff));
-  background-image: -webkit-linear-gradient(left, #54adff 0%, #998dff 51%, #54adff 100%);
-  background-image: -o-linear-gradient(left, #54adff 0%, #998dff 51%, #54adff 100%);
-  background-image: linear-gradient(to right, #54adff 0%, #998dff 51%, #54adff 100%);
+  background-image: -webkit-gradient(linear, left top, right top, from(#54adff), color-stop(60%, #0780ef), to(#54adff));
+  background-image: -webkit-linear-gradient(left, #54adff 0%, #0780ef 51%, #54adff 100%);
+  background-image: -o-linear-gradient(left, #54adff 0%, #0780ef 51%, #54adff 100%);
+  background-image: linear-gradient(to right, #54adff 0%, #0780ef 51%, #54adff 100%);
   background-size: 200% auto;
   z-index: 2;
   width: 176px;
@@ -1408,10 +1393,10 @@ i:before {
 }
 
 .contact_us_form .form-group input:focus {
-  border-image: -moz-linear-gradient(0deg, #6ebdfe 0%, #9b8aff 100%);
-  -webkit-border-image: -webkit-linear-gradient(0deg, #6ebdfe 0%, #9b8aff 100%);
-  border-image: -webkit-linear-gradient(0deg, #6ebdfe 0%, #9b8aff 100%);
-  border-image: -ms-linear-gradient(0deg, #6ebdfe 0%, #9b8aff 100%);
+  border-image: -moz-linear-gradient(0deg, #54adff 0%, #9b8aff 100%);
+  -webkit-border-image: -webkit-linear-gradient(0deg, #54adff 0%, #9b8aff 100%);
+  border-image: -webkit-linear-gradient(0deg, #54adff 0%, #9b8aff 100%);
+  border-image: -ms-linear-gradient(0deg, #54adff 0%, #9b8aff 100%);
   border-image-slice: 1;
 }
 
@@ -1460,10 +1445,10 @@ i:before {
 }
 
 .contact_us_form .form-group textarea:focus {
-  border-image: -moz-linear-gradient(0deg, #6ebdfe 0%, #9b8aff 100%);
-  -webkit-border-image: -webkit-linear-gradient(0deg, #6ebdfe 0%, #9b8aff 100%);
-  border-image: -webkit-linear-gradient(0deg, #6ebdfe 0%, #9b8aff 100%);
-  border-image: -ms-linear-gradient(0deg, #6ebdfe 0%, #9b8aff 100%);
+  border-image: -moz-linear-gradient(0deg, #54adff 0%, #0780ef 100%);
+  -webkit-border-image: -webkit-linear-gradient(0deg, #54adff 0%, #0780ef 100%);
+  border-image: -webkit-linear-gradient(0deg, #54adff 0%, #0780ef 100%);
+  border-image: -ms-linear-gradient(0deg, #54adff 0%, #0780ef 100%);
   border-image-slice: 1;
 }
 
@@ -1527,12 +1512,12 @@ i:before {
   box-shadow: 0px 0px 46px 15px rgba(0, 0, 0, 0.15);
   border-left: 8px;
   border-style: solid;
-  border-image: -moz-linear-gradient(top, #9b8aff 0%, #6ebcfe 100%);
-  -webkit-border-image: -webkit-linear-gradient(top, #9b8aff 0%, #6ebcfe 100%);
-  border-image: -webkit-linear-gradient(top, #9b8aff 0%, #6ebcfe 100%);
-  -o-border-image: -o-linear-gradient(top, #9b8aff 0%, #6ebcfe 100%);
-  border-image: -webkit-gradient(linear, left top, left bottom, from(#9b8aff), to(#6ebcfe));
-  border-image: linear-gradient(to bottom, #9b8aff 0%, #6ebcfe 100%);
+  border-image: -moz-linear-gradient(top, #0780ef 0%, #6ebcfe 100%);
+  -webkit-border-image: -webkit-linear-gradient(top, #0780ef 0%, #6ebcfe 100%);
+  border-image: -webkit-linear-gradient(top, #0780ef 0%, #6ebcfe 100%);
+  -o-border-image: -o-linear-gradient(top, #0780ef 0%, #6ebcfe 100%);
+  border-image: -webkit-gradient(linear, left top, left bottom, from(#0780ef), to(#6ebcfe));
+  border-image: linear-gradient(to bottom, #0780ef 0%, #6ebcfe 100%);
   border-image-slice: 1;
   border-top: 0px;
   border-bottom: 0px;
@@ -1815,15 +1800,15 @@ i:before {
   width: 100%;
   background: #6fbcfe;
   /* Old browsers */
-  background: -moz-linear-gradient(left, #6fbcfe 0%, #9b8aff 100%);
+  background: -moz-linear-gradient(left, #6fbcfe 0%, #0780ef 100%);
   /* FF3.6-15 */
-  background: -webkit-linear-gradient(left, #6fbcfe 0%, #9b8aff 100%);
+  background: -webkit-linear-gradient(left, #6fbcfe 0%, #0780ef 100%);
   /* Chrome10-25,Safari5.1-6 */
-  background: -webkit-gradient(linear, left top, right top, from(#6fbcfe), to(#9b8aff));
-  background: -o-linear-gradient(left, #6fbcfe 0%, #9b8aff 100%);
-  background: linear-gradient(to right, #6fbcfe 0%, #9b8aff 100%);
+  background: -webkit-gradient(linear, left top, right top, from(#6fbcfe), to(#0780ef));
+  background: -o-linear-gradient(left, #6fbcfe 0%, #0780ef 100%);
+  background: linear-gradient(to right, #6fbcfe 0%, #0780ef 100%);
   /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6fbcfe', endColorstr='#9b8aff',GradientType=1 );
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6fbcfe', endColorstr='#0780ef',GradientType=1 );
   /* IE6-9 */
   text-align: center;
   color: #fff;
@@ -1974,10 +1959,10 @@ i:before {
   border-radius: 0px;
   border-width: 1px;
   border-style: solid;
-  border-image: -moz-linear-gradient(180deg, #9b8aff 0%, #6ebdfe 100%);
-  -webkit-border-image: -webkit-linear-gradient(180deg, #9b8aff 0%, #6ebdfe 100%);
-  border-image: -webkit-linear-gradient(180deg, #9b8aff 0%, #6ebdfe 100%);
-  border-image: -ms-linear-gradient(180deg, #9b8aff 0%, #6ebdfe 100%);
+  border-image: -moz-linear-gradient(180deg, #0780ef 0%, #6ebdfe 100%);
+  -webkit-border-image: -webkit-linear-gradient(180deg, #0780ef 0%, #6ebdfe 100%);
+  border-image: -webkit-linear-gradient(180deg, #0780ef 0%, #6ebdfe 100%);
+  border-image: -ms-linear-gradient(180deg, #0780ef 0%, #6ebdfe 100%);
   border-image-slice: 1;
   border-top: 0px;
   border-left: 0px;
@@ -2115,9 +2100,9 @@ i:before {
 
 .tag_widget ul li:hover a {
   border-radius: 20px;
-  background-image: -moz-linear-gradient(10deg, #6ebdfe 0%, #9b8aff 100%);
-  background-image: -webkit-linear-gradient(10deg, #6ebdfe 0%, #9b8aff 100%);
-  background-image: -ms-linear-gradient(10deg, #6ebdfe 0%, #9b8aff 100%);
+  background-image: -moz-linear-gradient(10deg, #6ebdfe 0%, #0780ef 100%);
+  background-image: -webkit-linear-gradient(10deg, #6ebdfe 0%, #0780ef 100%);
+  background-image: -ms-linear-gradient(10deg, #6ebdfe 0%, #0780ef 100%);
   color: #fff;
 }
 
